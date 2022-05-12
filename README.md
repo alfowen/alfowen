@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Alfred Owen Pearson
-- 👀 I’m a Data Nerd And Who Loves EDA/Data Analysis Also Passinate About Leaning New Skills Especially On The Data Engineering Side.
-- 🐍 I'm a growing pythonista & A Wannabe pythoneer
+- 👀 I’m A Data Nerd Who Loves EDA/Data Analysis Also Passinate About Leaning New Skills Especially On The Data Engineering Side.
+- 🐍 I'm A Growing Pythonista & A Wannabe Pythoneer
+- 🏔 A Generelist & Love To Expand Knowledge To A Range Of Information
+- 📚 A Avid Book Reader
 
 
 <!---
